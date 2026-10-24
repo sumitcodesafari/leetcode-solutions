@@ -42,4 +42,4 @@
 
 **Topics:** `Math`
 
-
+**Runtime:** 15 ms (beats 7.1%) &nbsp;·&nbsp; **Memory:** 45.6 MB (beats 86.0%)
